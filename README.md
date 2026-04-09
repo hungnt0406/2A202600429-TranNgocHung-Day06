@@ -1,5 +1,8 @@
 # Reflection Cá Nhân
 
+## 2A202600429 - Trần Ngọc Hùng - Day06
+Repo nhóm: https://github.com/Quyenm/Nhom26-E403-Day06
+
 ## Vai trò
 
 Vai trò chính của em trong dự án này là thiết kế giao diện, phát triển frontend và tích hợp frontend với backend cho trợ lý AI Vinmec. Em chịu trách nhiệm biến ý tưởng sản phẩm thành một giao diện có thể sử dụng được, xây dựng phần frontend cho website, và đảm bảo frontend có thể giao tiếp chính xác với backend API.
